@@ -4,7 +4,7 @@ import WorkItem from './WorkItem'
 const data = [
   {
     year: 'Aug-2023',
-    title: 'Frontend Developer Trainee',
+    title: 'Frontend Developer Trainee At Primathon Technology',
     duration: "Present",
     details: 
     `I have gained knowledge and expertise in a wide range of technologies and practices

@@ -1,3 +1,4 @@
+import Contact from "./assets/components/Contact"
 import MainHero from "./assets/components/MainHero"
 import Projects from "./assets/components/Projects"
 import SlideNav from "./assets/components/SlideNav"
@@ -11,6 +12,7 @@ function App() {
       <MainHero/>
       <Work />
       <Projects />
+      <Contact />
     </>
   )
 }
