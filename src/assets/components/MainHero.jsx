@@ -33,11 +33,17 @@ function MainHero() {
 
 
         </h2>
-        <div className='flex justify-between pt-6 max-w-[200px] w-full'>
-          <FaTwitter size={20} className='cursor-pointer'/>
-          <FaInstagram size={20} className='cursor-pointer'/>
-          <FaLinkedinIn size={20} className='cursor-pointer'/>
-          <FaGithub size={20} className='cursor-pointer'/>
+        <div className='flex justify-between pt-6 max-w-[150px] w-full'>
+          {/* <FaTwitter size={20} className='cursor-pointer'/> */}
+          <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+              <FaInstagram size={20} className='cursor-pointer'/>
+            </a>
+            <a href="https://www.linkedin.com/in/rajiv-kumar-98ba78266/" target="_blank" rel="noopener noreferrer">
+              <FaLinkedinIn size={20} className='cursor-pointer'/>
+            </a>
+            <a href="https://github.com/Nomad-Rajiv" target="_blank" rel="noopener noreferrer">
+              <FaGithub size={20} className='cursor-pointer'/>
+            </a>
         </div>
       </div>
       </div>

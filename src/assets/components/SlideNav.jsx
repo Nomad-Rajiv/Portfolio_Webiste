@@ -25,7 +25,7 @@ function SlideNav() {
             </a>
 
             <a  onClick={handleNav}
-            href="#work" 
+            href="#work" id='#work'
             className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200'>
               <GrProjects size={20}/>
               <span className='pl-4'>Work</span>
@@ -64,19 +64,19 @@ function SlideNav() {
               <AiOutlineHome size={20}/>
             </a>
 
-            <a href="#Work" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer ease-in duration-300 hover:scale-110'>
+            <a href="#work" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer ease-in duration-300 hover:scale-110'>
               <GrProjects size={20}/>
             </a>
 
-            <a href="#Projects" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer ease-in duration-300 hover:scale-110'>
+            <a href="#projects" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer ease-in duration-300 hover:scale-110'>
               <AiOutlineProject size={20}/>
             </a>
 
-            <a href="#Resume" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer ease-in duration-300 hover:scale-110'>
+            <a href="https://drive.google.com/file/d/15WpdP680kZ65ghGEXPgbLgR7-5oMRALs/view?usp=sharing" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer ease-in duration-300 hover:scale-110'>
               <BsPerson size={20}/>
             </a>
 
-            <a href="#Contact" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer ease-in duration-300 hover:scale-110'>
+            <a href="#contact" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer ease-in duration-300 hover:scale-110'>
               <AiOutlineMail size={20}/>
             </a>
           </div>

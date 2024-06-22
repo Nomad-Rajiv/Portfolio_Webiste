@@ -14,7 +14,7 @@ const data = [
      Worked with Tailwind CSS, a powerful utility-first framework, which allows me to
     create visually appealing and responsive designs efficiently.
      Well-versed in implementing industry best practices for writing clean and maintainable
-    code`
+    code.`
   }
 ]
 

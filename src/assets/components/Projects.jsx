@@ -4,25 +4,25 @@ import ProjectItem from './ProjectItem'
 function Projects() {
   const dataLink = [
     {
-      img: 'images/project1.jpg',
-      title: "Kuch bhi",
-      url: 'google.com'
+      img: 'images/movie.jpg',
+      title: "Movie-App",
+      url: 'https://moviex-lemon.vercel.app/'
     },
     {
-      img: 'images/project2.jpg',
-      title: 'Kuch bhi',
-      url: "youtube.com"
+      img: 'images/Yume-lab.png',
+      title: 'Yume-Lab',
+      url: "https://yumlabs.vercel.app/"
     },
     {
-      img: 'images/project2.jpg',
-      title: 'Kuch bhi',
-      url: "youtube.com"
+      img: 'images/blog.jpg',
+      title: 'Blog-App',
+      url: ""
     },
-    {
-      img: 'images/project2.jpg',
-      title: 'Kuch bhi',
-      url: "youtube.com"
-    },
+    // {
+    //   img: 'images/project2.jpg',
+    //   title: 'Kuch bhi',
+    //   url: "youtube.com"
+    // },
 
   ]
   return (
