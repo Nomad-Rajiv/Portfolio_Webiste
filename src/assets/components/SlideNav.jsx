@@ -72,7 +72,7 @@ function SlideNav() {
               <AiOutlineProject size={20}/>
             </a>
 
-            <a href="https://drive.google.com/file/d/15WpdP680kZ65ghGEXPgbLgR7-5oMRALs/view?usp=sharing" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer ease-in duration-300 hover:scale-110'>
+            <a href="https://drive.google.com/file/d/1uLAKkT0B8128d94GX85C6whFjFi8qlvN/view?usp=sharing" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer ease-in duration-300 hover:scale-110'>
               <BsPerson size={20}/>
             </a>
 
